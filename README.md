@@ -1,2 +1,2 @@
-<h2>Simple Chess Ai</h2>
+<h2>Simple Chess Bot</h2>
 Recruitment task made for a friend
